@@ -19,7 +19,7 @@ It would help if you know
 
 ## Getting set up
 
-You can set up this project locally or using Binder.
+You can set up this project locally or using [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/vdbcyril/kaggle-datascience-survey-r/master?filepath=kaggle-datascience-survey-r.ipynb).
 
 ### Getting set up locally
 
